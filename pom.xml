@@ -72,4 +72,10 @@
       </plugins>
     </pluginManagement>
   </build>
+     <distributionManagement>
+        <snapshotRepository>
+            <id>nexus-snapshots</id>
+            <url>https://nexus.nostratech.com/repository/com.nostratech.academy/</url>
+        </snapshotRepository>
+    </distributionManagement>
 </project>
