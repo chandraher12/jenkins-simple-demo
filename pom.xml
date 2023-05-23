@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.subrutin</groupId>
-  <artifactId>simple-jenkins-demo-chandra</artifactId>
+  <artifactId>simple-jenkins-demo-chandra-selasa</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>simple-jenkins-demo-chandra</name>
+  <name>simple-jenkins-demo-chandra-selasa</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -74,7 +74,7 @@
   </build>
      <distributionManagement>
         <snapshotRepository>
-            <id>simple-jenkins-demo-chandra</id>
+            <id>simple-jenkins-demo-chandra-selasa</id>
             <url>https://nexus.nostratech.com/repository/com.nostratech.academy/</url>
         </snapshotRepository>
     </distributionManagement>
